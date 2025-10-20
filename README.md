@@ -82,5 +82,3 @@ if __name__ == '__main__':
 pytest task_1/test_solution.py
 pytest task_2/test_solution.py
 pytest task_3/test_solution.py
-
-# Все задачи реализованы с помощью GPT
